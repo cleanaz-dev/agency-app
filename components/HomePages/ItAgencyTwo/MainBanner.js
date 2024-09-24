@@ -52,12 +52,12 @@ const MainBanner = () => {
                           Get Started
                         </Link>
 
-                        <button
+                        {/* <button
                           className="btn btn-secondary" 
                           onClick={() => setToggler(!toggler)}
                         >
                           <i className="fa-solid fa-play me-1"></i> How it works
-                        </button>
+                        </button> */}
                       </div>
                     </div>
                   </div>
