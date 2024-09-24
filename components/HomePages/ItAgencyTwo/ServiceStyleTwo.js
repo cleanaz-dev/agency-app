@@ -132,7 +132,7 @@ const ServiceStyleTwo = () => {
           </div>
           <div className="feature-list">
            <i className="fa-solid fa-circle-check"></i>
-           AI pnpm deVoice Assistant
+           AI Voice Assistant
           </div>
          </div>
         </div>
