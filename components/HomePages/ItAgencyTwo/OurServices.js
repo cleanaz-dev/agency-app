@@ -44,7 +44,7 @@ const servicesData = [
  },
  {
   iconName: "pe-7s-call bg-ff612f",
-  title: "AI Voice Assistance",
+  title: "AI Voice Assistants",
   shortText:
    "Implement AI voice assistants that understand natural language, deliver accurate responses, and improve accessibility, making your services more user-friendly and efficient.",
   viewDetails: "/services/service-details/",

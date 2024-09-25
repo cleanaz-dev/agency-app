@@ -40,7 +40,7 @@ const MainBanner = () => {
                         data-aos-duration="1000" 
                         data-aos-delay="200"
                       >
-                       At LLM Gem, we deliver innovative AI solutions to help automate, optimize, and elevate your business. Unlock the power of AI with our tailored services.
+                       At LLM GEM, we deliver innovative AI solutions to help automate, optimize, and elevate your business. Unlock the power of AI with our tailored services.
                       </p>
 
                       <div
