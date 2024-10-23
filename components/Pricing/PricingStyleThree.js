@@ -68,8 +68,8 @@ const pricingData = [
  },
  {
   title: "Advanced AI Suite",
-  price: "10,000",
-  duration: "Starting at",
+  price: "Contact Us",
+  duration: "",
   shortText:
    "Comprehensive AI solution with advanced chatbot, voice assistant, and deep CRM integration.",
   aosDelay: "400",
@@ -80,9 +80,6 @@ const pricingData = [
    },
    {
     title: "Voice Assistant Integration",
-   },
-   {
-    title: "Multi-language Support",
    },
    {
     title: "Deep CRM Integration & Automation",
@@ -136,7 +133,7 @@ const PricingStyleThree = () => {
           </div>
 
           <div className="price">
-           <sup>$</sup>
+          {value.title !== "Advanced AI Suite" && <sup>$</sup>}
            {value.price} <sub>{value.duration}</sub>
            <p className="info-text">{value.shortText}</p>
           </div>
